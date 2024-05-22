@@ -13,6 +13,7 @@ A list of CMB specific Julia packages that would be useful for researchers
 The automatically differentiable and GPU-compatible toolkit for CMB analysis.
 
 https://cosmicmar.com/CMBLensing.jl
+
 https://github.com/marius311/CMBLensing.jl
 
 ## Capse.jl
@@ -20,6 +21,7 @@ https://github.com/marius311/CMBLensing.jl
 CMB Angular Power Spectrum Emulator
 
 https://cosmologicalemulators.github.io/Capse.jl/stable/
+
 https://github.com/CosmologicalEmulators/Capse.jl
 
 ## Bolt.jl
